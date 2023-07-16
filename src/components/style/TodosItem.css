@@ -1,0 +1,23 @@
+.items{
+    display: flex;
+    flex-direction: row;
+}
+
+#deletebtn,#editbtn{
+    background-color: rgb(193, 24, 24);
+    color: white;
+    padding: 5px;
+    border: 0;
+    text-decoration: none;
+    outline: none;
+    font-size: 12px;
+    margin: 5px;
+
+}
+
+#editbtn{
+    background-color: yellow;
+    color :black;
+    width: 50px;
+}
+
